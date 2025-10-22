@@ -1,0 +1,14 @@
+/* galerija slika */
+.h2{
+    text-align: center;
+}
+.opis{
+    text-align: center;
+}
+.slikeee{   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
